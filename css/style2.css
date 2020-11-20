@@ -10,7 +10,7 @@ div {
 	background-color: #2B0268;
 	width: 50%;
 	height: 50%;
-	color: black;
+	color: white;
 	font-family: sans-serif;
 }
 
@@ -24,7 +24,7 @@ h2 {
 
 h3 {
 	font-style: italic;
-	color: white;
+	color: blue;
 	font-family: sans-serif;
 	font-weight: 200;
 	font-variant: small-caps;
@@ -32,10 +32,31 @@ h3 {
 
 a {
 	font-style: italic;
-	color: #53026D;
+	color: blue;
 	font-family: cursive;
 }
 
 .h2 {
 	color: blue;
 }
+
+.theadstyle {
+	color: blue;
+	font-size: 20px;
+}
+
+#table_we {
+	color: white;
+	font-style: italic;
+	font-family: sans-serif;
+}
+
+#skills {
+	color: white;
+	font-style: italic;
+	font-family: sans-serif;
+}
+
+a:hover {background-color:#FFA100; font-size: 20px;}
+
+
